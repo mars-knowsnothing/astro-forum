@@ -20,7 +20,7 @@ const messages = {
         'Astronomy in China has developed at a fast rate over the last decade, with new observational instrument and facilities planned or already operational (e.g., FAST, MUST, CSST, TianQin, Taiji), and increasing funding opportunities available. The KIAA postdoc forum is a chance for early-career scientists to grow their scientific network in China, with the prospect of continuing their scientific careers or further collaborating with Chinese institutions.'
       ],
       list_1_title: 'Scientific Organizing Committee:',
-      list_1: 'Pablo Renard Guiral, p.renard.guiral@gmail.com,Sunayana Maben, smaben@nao.cas.cn,Hsu-Wen Chiang, jiangxw@sustech.edu.cn,Huan Zhou, zhouh237@mail3.sysu.edu,Yun-Feng Wei, yfwei@xmu.edu.cn,Yun Wang, wangyun@pmo.ac.cn', 
+      list_1: 'Pablo Renard Guiral(p.renard.guiral@gmail.com),Sunayana Maben(smaben@nao.cas.cn),Hsu-Wen Chiang(jiangxw@sustech.edu.cn),Huan Zhou(zhouh237@mail3.sysu.edu),Yun-Feng Wei(yfwei@xmu.edu.cn),Yun Wang(wangyun@pmo.ac.cn)', 
       bannerText: [
         'POSTDOCS FORUM 2024',
         'November 25 - 27 , 2024'
