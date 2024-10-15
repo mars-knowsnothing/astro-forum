@@ -6,7 +6,7 @@ const messages = {
     toggleLanguage: '切换到中文版',
     tabs: {
       home: 'Home',
-      contact: 'Contact Information',
+      //contact: 'Contact Information',
       // fees: 'Participation Fees',
       venue: 'Venue',
       schedule: 'Forum Schedule',
@@ -83,7 +83,7 @@ const messages = {
     toggleLanguage: 'Switch to English Version',
     tabs: {
       home: '首页',
-      contact: '联系方式',
+      // contact: '联系方式',
       // fees: '参会费用',
       venue: '会场',
       schedule: '论坛日程',
@@ -105,10 +105,6 @@ const messages = {
       bannerText: ['2024 年北京大学现代天文学前沿国际博士生论坛'],
     },
     schedule: {
-      title: '论坛日程',
-      content: [
-        '论坛涵盖五个主题：射电天文学、太阳与行星、恒星与银河系、高能天体物理学、星系与宇宙学。每个主题都将包括该领域顶尖专家的特邀讲座，已确认的嘉宾有：汪景琇院士（太阳），韩占文院士（恒星），曹臻院士、戴子高教授（高能），史生才院士、李菂教授（射电），景益鹏院士、Luis Ho 院士（星系宇宙学），董若冰教授（行星），刘超研究员（银河系）。这些讲座之后将安排研究生的口头报告和海报展示。',
-      ],
       subTitle: '初步日程',
       schedule: [
         '12月4日   报到',
