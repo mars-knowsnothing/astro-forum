@@ -17,7 +17,7 @@ const messages = {
       content: [
         'We are happy to announce the KIAA Postdoc Forum 2024, to be held in the Kavli Institute for Astronomy and Astrophysics at Peking University from November 25th to November 27th 2024. The forum is aimed at, but not restricted to, postdocs currently based in China or interested in pursuing an academic career here. Other early-career scientists are also welcome, both from China and abroad.',
         'We welcome contributions from a broad range of topics in theoretical and observational Astrophysics: from Stellar and Galaxy evolution to General Relativity and Cosmology. Our main goal is to foster networking and collaboration opportunities among participants, so a significant part of the forum will be devoted to open discussion and interaction. We will also ensure that every participant has time allotted to showcase their research.',
-        'Astronomy in China has developed at a fast rate over the last decade, with new observational instrument and facilities planned or already operational (e.g., FAST, MUST, CSST, TianQin, Taiji), and increasing funding opportunities available. The KIAA postdoc forum is a chance for early-career scientists to grow their scientific network in China, with the prospect of continuing their scientific careers or further collaborating with Chinese institutions.'
+        'Astronomy in China has developed at a fast rate over the last decade, with new observational instrument and facilities planned or already operational (e.g., FAST, MUST, CSST, TianQin, Taiji, LHAASO), and increasing funding opportunities available. The KIAA postdoc forum is a chance for early-career scientists to grow their scientific network in China, with the prospect of continuing their scientific careers or further collaborating with Chinese institutions.'
       ],
       list_1_title: 'Scientific Organizing Committee:',
       list_1: [
@@ -48,7 +48,7 @@ const messages = {
         ['Forum Homepage:', 'https://postdoc-forum-2024.kiaa-pku.cn'],
         'Forum Venue: KIAA-PKU Auditorium',
         'Forum Dates: November 25th to November 27th, 2024',
-        'Registration Period: October 21th to November 10th, 2024',
+        'Registration Period: October 21th to November 15th, 2024',
         ['Registration Website:', 'https://www.wjx.top/vm/h4GMA99.aspx#'],
         'Registration QR Code:',
       ],
@@ -103,7 +103,7 @@ const messages = {
       content: [
         '2024年科维理博士后论坛将于11月25日至27日，在北京大学科维理天文与天体物理研究所举行。本次论坛主要面向当前在中国或有意前来中国开展研究的博士后，同时也诚邀海内外其他青年学者参与。',
         '本次论坛将涵盖理论与观测天文学的多个领域，其议题包括恒星与星系的形成与演化、宇宙学以及广义相对论。论坛将为每位参与者提供展示自己研究的机会，并设立专门的开放讨论与交流环节，旨在促进参会者间的互动与合作。',
-        '近年来，中国天文学研究取得了显著进展，有许多大科学装置已投入使用或正在规划中（如FAST、MUST、CSST、天琴、太极），相应的科研项目与工作岗位也在不断增加。在这一背景下，科维理博士后论坛致力为青年学者提供学术交流和职业发展的平台，同时推动学术领域的紧密互联，助力中国天文学研究的发展与影响力的提升。'
+        '近年来，中国天文学研究取得了显著进展，有许多大科学装置已投入使用或正在规划中（如FAST、MUST、CSST、天琴、太极、LHAASO），相应的科研项目与工作岗位也在不断增加。在这一背景下，科维理博士后论坛致力为青年学者提供学术交流和职业发展的平台，同时推动学术领域的紧密互联，助力中国天文学研究的发展与影响力的提升。'
       ],
       list_1_title: '科学组织委员会：',
       list_1: [
@@ -139,7 +139,7 @@ const messages = {
         ['论坛主页：', 'https://postdoc-forum-2024.kiaa-pku.cn/'],
         '论坛地点：北京大学科维理天文与天体物理研究所报告厅',
         '论坛日期：2024 年 11 月 25 日至 11 月 27 日',
-        '注册时间：2024 年 10 月 21 日至 2024 年 11 月 10 日',
+        '注册时间：2024 年 10 月 21 日至 2024 年 11 月 15 日',
         ['注册网站：', 'https://www.wjx.top/vm/h4GMA99.aspx#'],
         '注册二维码：',
       ],
