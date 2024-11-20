@@ -35,7 +35,7 @@ const messages = {
       list_2_title: 'Local Organizing Committee:',
       list_2: [
         'Veronica Vazquez Aceves, KIAA postdoc (veronica AT pku.edu.cn)',
-        'Haonan Zheng, KIAA postdoc (hzzheng AT pku.edu.cn)',
+        'Haonan Zheng, KIAA postdoc (hnzheng AT pku.edu.cn)',
         'Torben C. Frost, KIAA postdoc (torben.frost AT pku.edu.cn)',
         'Siqi Liu, KIAA postdoc (liusiqi_647 AT pku.edu.cn)',
         'Meng-Hua Chen, KIAA postdoc (physcmh AT pku.edu.cn)'
@@ -117,7 +117,7 @@ const messages = {
       list_2_title: '地方组织委员会：',
       list_2: [
         'Veronica Vazquez Aceves, KIAA postdoc (veronica AT pku.edu.cn)',
-        'Haonan Zheng, KIAA postdoc (hzzheng AT pku.edu.cn)',
+        'Haonan Zheng, KIAA postdoc (hnzheng AT pku.edu.cn)',
         'Torben C. Frost, KIAA postdoc (torben.frost AT pku.edu.cn)',
         'Siqi Liu, KIAA postdoc (liusiqi_647 AT pku.edu.cn)',
         'Meng-Hua Chen, KIAA postdoc (physcmh AT pku.edu.cn)'
