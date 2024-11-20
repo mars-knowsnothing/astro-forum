@@ -13,7 +13,7 @@ const messages = {
       registration: 'Registration',
     },
     home: {
-      title: 'KIAA Reasearch Forum for Postdoctoral Scholars in Astronomy and Astrophysics',
+      title: 'KIAA Research Forum for Postdoctoral Scholars in Astronomy and Astrophysics',
       content: [
         'We are happy to announce the KIAA Postdoc Forum 2024, to be held in the Kavli Institute for Astronomy and Astrophysics at Peking University from November 25th to November 27th 2024. The forum is aimed at, but not restricted to, postdocs currently based in China or interested in pursuing an academic career here. Other early-career scientists are also welcome, both from China and abroad.',
         'We welcome contributions from a broad range of topics in theoretical and observational Astrophysics: from Stellar and Galaxy evolution to General Relativity and Cosmology. Our main goal is to foster networking and collaboration opportunities among participants, so a significant part of the forum will be devoted to open discussion and interaction. We will also ensure that every participant has time allotted to showcase their research.',
