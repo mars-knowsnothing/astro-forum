@@ -79,7 +79,7 @@ const messages = {
       hotel_link_text:'Download Information'
     },
     schedule: {
-      subTitle: 'Preliminary Schedule:',
+      subTitle: 'Preliminary Schedule',
       schedule: [
         'Monday (November 25): Invited talks, discussion, poster session',
         'Tuesday (November 26): Invited talks, discussion, poster session',
