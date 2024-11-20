@@ -29,7 +29,7 @@ const messages = {
         'Yun Wang (wangyun AT pmo.ac.cn)'
       ],
       bannerText: [
-        'KIAA Reasearch Forum for Postdoctoral Scholars in Astronomy and Astrophysics',
+        'KIAA Research Forum for Postdoctoral Scholars in Astronomy and Astrophysics',
         'November 25 - 27 , 2024'
       ],
       list_2_title: 'Local Organizing Committee:',
